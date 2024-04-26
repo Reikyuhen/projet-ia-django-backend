@@ -59,3 +59,16 @@ __snapshots__/
 # Fichiers de configuration de l'éditeur de texte
 .eslintrc.json
 .prettierrc
+
+.Trashes
+.Spotlight-V100
+.TemporaryItems
+# Fichiers temporaires
+_._*
+Thumbs.db
+
+# Fichiers AppleDouble
+*.AppleDouble
+
+# Fichiers LSOverride
+*.LSOverride
