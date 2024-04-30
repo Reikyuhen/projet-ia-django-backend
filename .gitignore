@@ -47,7 +47,7 @@ yarn-error.log*
 /back/poumon.h5
 
 # env
-/djangoback
+/virtual_env
 
 # Dossiers temporaires de l'éditeur de code
 **/.vscode/**
